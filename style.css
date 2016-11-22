@@ -37,7 +37,7 @@ body {
 }
 
 .headerStyle {
-    height: 50px;
+    height: 5s0px;
     background-color: #459add;
 }
 
@@ -45,7 +45,11 @@ body {
     float: left;
     width: 30px;
     height: auto;
-    margin: 6px 6px 6px 6px;
+    padding: 10px 6px 6px 6px;
+}
+
+.menuImageIcon:hover {
+    background-color: #555;
 }
 
 
